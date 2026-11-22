@@ -1,9 +1,4 @@
 
-<p align="center">
-   <a href="https://github.com/O2sa/DevImpact">
-    <img src="https://img.shields.io/badge/Explore-DevImpact-blue?style=for-the-badge&logo=github" alt="DevImpact">
-  </a>
-</p>
 
 # 📡 CCNA Practice Labs
 
